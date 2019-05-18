@@ -1,0 +1,16 @@
+name: ohshit
+version: 0.1.0
+
+authors:
+  - Chris Watson <chris@watzon.me>
+
+executables:
+  - ohshit
+
+targets:
+  ohshit:
+    main: src/ohshit.cr
+
+crystal: 0.28.0
+
+license: MIT
